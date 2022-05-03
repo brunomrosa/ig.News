@@ -1,0 +1,15 @@
+{
+
+  "componentFunctionalTypescript": {
+    "prefix": "rfc",
+    "body": [
+
+      "export const ${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}} = () => {",
+      "  return <div />;",
+      "}",
+      "",
+      
+    ],
+    "description": "Create React Native TypeScript Functional Component"
+  }	
+}

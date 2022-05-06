@@ -1,0 +1,21 @@
+{
+  "id": "260e49c4-3ac9-4e22-87f2-3a4b0a6909a4",
+  "uid": "quaerat-sunt-maiores",
+  "type": "Post",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Deliver proactive experiences",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Ipsum do amet labore nostrud velit. Commodo ullamco excepteur commodo dolor. Pariatur amet qui est aliquip Lorem laborum aliquip ut consectetur fugiat cupidatat aliquip culpa.",
+        "spans": []
+      }
+    ]
+  }
+}

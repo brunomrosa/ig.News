@@ -1,0 +1,9 @@
+public
+build
+.next
+node_modules
+.vscode
+next-env.d.ts
+package.json
+next.config.js
+tsconfig.json

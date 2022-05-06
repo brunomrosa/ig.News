@@ -5,8 +5,8 @@
 }
 
 :root {
-  --white: #FFFFFF;
-  
+  --white: #ffffff;
+
   --gray-100: #e1e1e6;
   --gray-300: #a8a8b3;
   --gray-800: #29292e;
@@ -21,24 +21,25 @@
   html {
     //15px | 93.75% de 16px
     font-size: 93.75%;
-    
   }
 }
 @media (max-width: 720px) {
   html {
     //14px | 87.5% de 16px
     font-size: 87.5%;
-    
   }
 }
 
 body {
   background-color: var(--gray-900);
-  color: var(--white)
+  color: var(--white);
 }
 
-body, input, textarea, button {
-  font: 400 1rem 'Roboto', sans-serif;
+body,
+input,
+textarea,
+button {
+  font: 400 1rem "Roboto", sans-serif;
 }
 
 button {
